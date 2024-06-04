@@ -1,6 +1,6 @@
 ## S1Appliquer
 
-Étudiante à Ada Tech School, je reprends les fiches du début de l'année et je refais les exercices pratiques et individuels pour voir mon évolution.
+Étudiante à Ada Tech School, je reprends les fiches depuis le début de l'année et je refais les exercices pratiques et individuels pour voir mon évolution.
 
 # Appliquer
 
