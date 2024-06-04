@@ -27,5 +27,11 @@ for (let i = 0; i < ingredients.length; i++) {
 
 console.log(listeIngredients)
 
+// Quatrième étape : L’ordre d’affichage doit se faire de manière alphabétique.
+
+ingredients.sort()
+
+console.log(ingredients)
+
 
 
